@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matjaž Drolc</h1>
-<h3 align="center">Full-stack software engineer in infrastructure surveying business</h3>
+<h3 align="center">Working in infrastructure surveying industry and live video streaming</h3>
 
 Worked with the following tech stacks and providers:
 - AWS (Amplify, Route53, RDS, ElastiCache, S3, EC2, MediaConvert, Cloud Formation, Cloud Front, IAM)

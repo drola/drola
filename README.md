@@ -17,7 +17,7 @@ Worked with the following tech stacks and providers:
 
 
 Social:
- - <a href="https://twitter.com/matjazdrolc" target="blank">Twitter</a> (topics: software engineering, photography, business)
  - <a href="https://drola.si" target="blank">Homepage</a> (topics: software engineering, photography, business)
+ - <a href="https://twitter.com/matjazdrolc" target="blank">Twitter</a> (topics: software engineering, photography, business)
  - <a href="https://www.instagram.com/drolchi/" target="blank">Instagram</a>  (topics: photography, outdoors, powerlifting)
  - <a href="https://www.linkedin.com/in/matja%C5%BE-drolc-aa63213a/" target="blank">LinkedIn</a> (the most up to date CV)

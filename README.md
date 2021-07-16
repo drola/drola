@@ -16,6 +16,11 @@ Worked with the following tech stacks and providers:
 - CI pipelines: Gitlab CI, GitHub Actions, Docker, Ansible
 
 
+Underappreciated things:
+ - plain text files (including Markdown and CSV)
+
+
+
 Social:
  - <a href="https://drola.si" target="blank">Homepage</a> (topics: software engineering, photography, business)
  - <a href="https://twitter.com/matjazdrolc" target="blank">Twitter</a> (topics: software engineering, photography, business)

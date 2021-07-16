@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Matjaž Drolc</h1>
 <h3 align="center">Full-stack software engineer in infrastructure surveying business</h3>
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p align="center">
-<a href="https://twitter.com/matjazdrolc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="matjazdrolc" height="30" width="30" /></a>
-</p>
+Worked with the following tech stacks and providers:
+- AWS (Amplify, Route53, RDS, ElastiCache, S3, EC2, MediaConvert, Cloud Formation, Cloud Front, IAM)
+- DigitalOcean, Hetzner
+- AngularJS, Angular 2+
+- React + TypeScript + CRA
+- Svelte + TypeScript
+- WebGL + THREE.js + RxJS
+- Symfony (1.x, 2.x, 3.x)
+- PostgreSQL, PostGIS
+- Python + SQLAlchemy + Flask
+- GStreamer + mediasoup + WebRTC
+- Bootstrap, Tailwind, flexbox. Love flexbox <3, a big step forward from `float: left`
+- CI pipelines: Gitlab CI, GitHub Actions, Docker, Ansible
+
+
+Social:
+ - <a href="https://twitter.com/matjazdrolc" target="blank">Twitter (topics: software engineering, photography, business)</a>
+ - <a href="https://drola.si" target="blank">Homepage (topics: software engineering, photography, business)</a>
+ - <a href="https://www.instagram.com/drolchi/" target="blank">Instagram (topics: photography, outdoors, powerlifting)</a>
+
